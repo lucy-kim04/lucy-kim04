@@ -4,7 +4,7 @@
 ## Introduction
 김희주입니다.
 
-[![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=solarized-light)](https://github.com/lucy-kim04/github-readme-stats)
+[![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=nord-light)](https://github.com/lucy-kim04/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=nord-light)
 
@@ -35,7 +35,7 @@
 
 ## 🖋️ Contribution Graph
 
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=cobalt-light)
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=nord-light)
 
 
 </div>
