@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## ✨ Introduction
+##✨ Introduction
 안녕하세요. 김희주입니다.
 
 [![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=default)](https://github.com/lucy-kim04/github-readme-stats)
