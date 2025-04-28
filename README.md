@@ -10,6 +10,11 @@
 
 <br/>
 
+## 🖋️ Contribution Graph
+
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=default)
+
+
 ## 🛠️ Used tools & skill
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
