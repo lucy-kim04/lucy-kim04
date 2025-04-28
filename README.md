@@ -22,11 +22,8 @@
 
 <br/>
 
-## 👀 About Me
+## Me
 
-<a href="https://velog.io/@hyobiin9">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>
 <a href="mailto:a01025105259@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
