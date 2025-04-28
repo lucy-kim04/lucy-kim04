@@ -4,9 +4,10 @@
 ## Introduction
 김희주입니다.
 
-[![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=default)](https://github.com/lucy-kim04/github-readme-stats)
+[![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=tokyonight)](https://github.com/lucy-kim04/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=tokyonight)
+
 
 
 
