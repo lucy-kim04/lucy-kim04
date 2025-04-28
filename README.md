@@ -8,11 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=default)
 
-<br/>
 
-## 🖋️ Contribution Graph
-
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=default)
 
 
 ## 🛠️ Used tools & skill
@@ -32,5 +28,11 @@
 <a href="mailto:a01025105259@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+<br/>
+
+## 🖋️ Contribution Graph
+
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=default)
 
 </div>
