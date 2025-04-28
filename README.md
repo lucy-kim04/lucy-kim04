@@ -22,7 +22,7 @@
 
 <br/>
 
-## Me
+## Contact Me
 
 <a href="mailto:a01025105259@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
