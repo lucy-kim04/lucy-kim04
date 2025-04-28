@@ -35,7 +35,7 @@
 
 ## 🖋️ Contribution Graph
 
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=nord-light)
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=tokyo-night)
 
 
 </div>
