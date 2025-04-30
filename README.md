@@ -38,7 +38,6 @@
 
 ![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=tokyo-night)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 
 </div>
