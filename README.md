@@ -1,9 +1,10 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFC4FF&height=200&section=header&text=Lucy's%20Github&fontSize=50)
 
-# Introduction
 
-## 김희주
+# 김희주    Heeju Kim
+
 
 [![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=nord-light)](https://github.com/lucy-kim04/github-readme-stats)
 
@@ -36,8 +37,7 @@
 
 ## 🖋️ Contribution Graph
 
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=tokyo-night)
-
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=default)
 
 
 </div>
