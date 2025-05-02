@@ -1,8 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFC4FF&height=200&section=header&text=Lucy's%20Github&fontSize=50)
-
-
 # 김희주    Heeju Kim
 
 
