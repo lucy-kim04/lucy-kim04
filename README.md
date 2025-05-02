@@ -1,4 +1,9 @@
+<div align = "center">
+
 # 김희주    Heeju Kim
+
+<br>
+<br>
 
 
 [![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=nord-light)](https://github.com/lucy-kim04/github-readme-stats)
@@ -6,6 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=nord-light)
 
 
+<br>
 
 
 
@@ -62,7 +68,9 @@
 
 ## 🖋️ Contribution Graph
 
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=default)
+![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=dracula)
+
+
 
 
 </div>
