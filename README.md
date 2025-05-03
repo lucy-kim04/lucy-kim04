@@ -66,9 +66,14 @@
 
 <br/>
 
-## 🖋️ Contribution Graph
+---
 
-![lucy-kim04's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucy-kim04&theme=dracula)
+
+### 백준 푸는 중....
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=effelt22)](https://solved.ac/effelt22)
+
+![Baekjoon Graph](https://mazandi.herokuapp.com/api?handle=effelt22&theme=warm)
 
 
 
