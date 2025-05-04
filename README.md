@@ -69,7 +69,7 @@
 ---
 
 
-### 백준 푸는 중.... (05.03 ~ ing)
+### 백준 푸는 중... (05.03 ~ ing)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=effelt22)](https://solved.ac/effelt22)
 
