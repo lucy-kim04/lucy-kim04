@@ -5,7 +5,7 @@
 <br>
 <br>
 
-
+[![lucy-kim04's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy-kim04&show_icons=true&theme=nord-light)](https://github.com/lucy-kim04/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=nord-light)
