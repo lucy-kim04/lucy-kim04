@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kim04&layout=compact&theme=nord-light)
 
-### [About Me]([https://4-moving-team-fe1.vercel.app/](https://about-me-ten-eosin.vercel.app/))
+### [About Me](https://about-me-ten-eosin.vercel.app/)
 
 
 <br>
