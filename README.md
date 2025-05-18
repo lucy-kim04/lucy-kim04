@@ -60,10 +60,13 @@
 
 <br/>
 
-## Contact Me
+## Me
 
 <a href="mailto:effelt0905@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://velog.io/@lucy-kim04" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
 
